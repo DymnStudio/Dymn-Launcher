@@ -2,6 +2,9 @@
 
 <p align="center">
   A highly customizable Android launcher inspired by iOS, built with Kotlin and Jetpack Compose.
+
+Dymn Launcher offers a clean and modern home screen with folders, widgets, gestures, icon pack support, custom accent colors, wallpaper customization and a fast app drawer with search.
+
 </p>
 
 <p align="center">
@@ -39,15 +42,19 @@ Dymn Launcher is a clean Android home screen experience focused on speed, person
 
 ## Key Features
 
-- Customizable home screen
-- App menu with search
-- Folder system
-- Widget editing and resizing
-- Adjustable tile transparency
-- Icon pack support
-- Wallpaper customization
-- English and Ukrainian localization
-- Clean iOS-inspired interface
+## Key Features
+
+* 🏠 Customizable home screen
+* 📂 Folder support
+* 🔍 Fast app search
+* 🎨 Icon pack support
+* 🌈 Custom accent color selection
+* 🖼️ Built-in and custom wallpapers
+* 👆 Gesture support
+* 📱 Widgets support
+* ⚙️ Interface personalization
+* 🚀 Fast and lightweight performance
+* 🧩 Built with Jetpack Compose
 
 ---
 
