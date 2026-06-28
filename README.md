@@ -1,7 +1,7 @@
 <h1 align="center">Dymn Launcher</h1>
 
 <p align="center">
-  Minimal Android Launcher built with Kotlin & Jetpack Compose
+  A highly customizable Android launcher inspired by iOS, built with Kotlin and Jetpack Compose.
 </p>
 
 <p align="center">
@@ -12,6 +12,14 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow">
 </p>
 
+## Contents
+
+- [Preview](#preview)
+- [Key Features](#key-features)
+- [Installation](#installation)
+- [Screenshots](#screenshots)
+- [Roadmap](#roadmap)
+- [License](#license)
 **Highly customizable Android launcher inspired by iOS simplicity.**
 
 Dymn Launcher is a clean Android home screen experience focused on speed, personalization and modern visual design.
@@ -82,3 +90,17 @@ Dymn Launcher is a clean Android home screen experience focused on speed, person
 ## About Dymn Studio
 
 Dymn Studio creates modern Android applications with a focus on clean UI, practical features and minimal design.
+
+## Roadmap
+
+- [x] Home screen
+- [x] App drawer
+- [x] Folder support
+- [x] Widgets
+- [x] Wallpaper customization
+- [x] Search
+- [ ] Icon pack support
+- [ ] Backup & Restore
+- [ ] Gesture support
+- [ ] Tablet layout
+- [ ] Material You colors
