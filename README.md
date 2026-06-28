@@ -1,4 +1,9 @@
 # Dymn Launcher
+![Android](https://img.shields.io/badge/Android-8%2B-green)
+![Kotlin](https://img.shields.io/badge/Kotlin-100%25-blue)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-blueviolet)
+![Release](https://img.shields.io/github/v/release/DymnStudio/Dymn-Launcher)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 **Highly customizable Android launcher inspired by iOS simplicity.**
 
