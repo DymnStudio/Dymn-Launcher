@@ -1,3 +1,6 @@
+<p align="center">
+<img src="assets/icon.png" width="140">
+</p>
 # <h1 align="center">Dymn Launcher</h1>
 
 <p align="center">
