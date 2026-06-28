@@ -22,11 +22,11 @@ jobs:
       - name: Make Gradle executable
         run: chmod +x ./gradlew
 
-      - name: Build debug APK
-        run: ./gradlew assembleDebug
+      - name: Build release APK
+        run: ./gradlew assembleRelease
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
         with:
-          name: dymn-launcher-debug-apk
-          path: app/build/outputs/apk/debug/*.apk
+          name: dymn-launcher-release-apk
+          path: app/build/outputs/apk/release/*.apk
