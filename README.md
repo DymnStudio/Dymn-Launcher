@@ -1,4 +1,16 @@
-# Dymn Launcher
+# <h1 align="center">Dymn Launcher</h1>
+
+<p align="center">
+Minimal Android Launcher built with Kotlin & Jetpack Compose
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-8%2B-green">
+  <img src="https://img.shields.io/badge/Kotlin-100%25-blue">
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-UI-blueviolet">
+  <img src="https://img.shields.io/github/v/release/DymnStudio/Dymn-Launcher">
+  <img src="https://img.shields.io/badge/License-MIT-yellow">
+</p>
 ![Android](https://img.shields.io/badge/Android-8%2B-green)
 ![Kotlin](https://img.shields.io/badge/Kotlin-100%25-blue)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-blueviolet)
