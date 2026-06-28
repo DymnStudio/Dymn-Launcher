@@ -42,8 +42,6 @@ Dymn Launcher is a clean Android home screen experience focused on speed, person
 
 ## Key Features
 
-## Key Features
-
 * 🏠 Customizable home screen
 * 📂 Folder support
 * 🔍 Fast app search
