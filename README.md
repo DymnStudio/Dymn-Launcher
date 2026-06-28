@@ -1,47 +1,72 @@
-# Мій лаунчер
+# Dymn Launcher
 
-Android-лаунчер на Kotlin і Jetpack Compose з домашнім екраном, меню додатків і базовими налаштуваннями вигляду.
+**Highly customizable Android launcher inspired by iOS simplicity.**
 
-## Що вже є
+Dymn Launcher is a clean Android home screen experience focused on speed, personalization and modern visual design.
 
-- Реєстрація `HOME`, щоб Android міг запропонувати застосунок як лаунчер.
-- Окремий головний екран і окрема сторінка з усіма додатками.
-- Отримання встановлених додатків через `PackageManager`.
-- Пошук за назвою додатка або пакетом.
-- Список додатків з групуванням за літерами та алфавітною навігацією.
-- Додавання і прибирання додатків із головного екрана через довге натискання.
-- Налаштування показу дати, кількості додатків і розміру іконок.
-- Вбудовані шпалери та вибір власних зображень як шпалер.
-- Запуск додатків напряму за component name.
+---
 
-## Як запустити
+## Preview
 
-### Через Android Studio
+<p align="center">
+  <img src="assets/screenshots/home-screen.png" width="260">
+  <img src="assets/screenshots/app-menu.png" width="260">
+  <img src="assets/screenshots/folder-view.png" width="260">
+</p>
 
-1. Відкрий цю папку в Android Studio.
-2. Дочекайся Gradle Sync.
-3. Запусти конфігурацію `app` на телефоні або емуляторі.
-4. Натисни кнопку Home на пристрої й вибери `Мій лаунчер`.
+---
 
-### Через готовий APK
+## Key Features
 
-Debug APK після збірки лежить тут:
+- Customizable home screen
+- App menu with search
+- Folder system
+- Widget editing and resizing
+- Adjustable tile transparency
+- Icon pack support
+- Wallpaper customization
+- English and Ukrainian localization
+- Clean iOS-inspired interface
 
-`app/build/outputs/apk/debug/app-debug.apk`
+---
 
-Щоб перезібрати APK, запусти:
+## Customization
 
-```bat
-.\build-debug.cmd
-```
+<p align="center">
+  <img src="assets/screenshots/widget-edit.png" width="260">
+  <img src="assets/screenshots/personalization.png" width="260">
+  <img src="assets/screenshots/interface-settings.png" width="260">
+</p>
 
-Якщо Android не показує вибір лаунчера, відкрий системні налаштування, знайди "Default home app" або "Домашній застосунок" і вибери `Мій лаунчер`.
+---
 
-## Що можна додати далі
+## Settings
 
-- Налаштовуваний док з улюбленими додатками.
-- Меню довгого натискання: інформація про додаток, видалення, приховування.
-- Список прихованих додатків.
-- Папки.
-- Кольори теми під шпалери.
-- Жести для пошуку, сповіщень і швидких налаштувань.
+<p align="center">
+  <img src="assets/screenshots/app-menu-settings.png" width="260">
+  <img src="assets/screenshots/permissions.png" width="260">
+  <img src="assets/screenshots/personalization_2.png" width="260">
+</p>
+
+---
+
+## Status
+
+**Project status:** Completed  
+**Availability:** APK available on request  
+**Google Play:** Not published yet
+
+---
+
+## Built with
+
+- Android Studio
+- Android SDK
+- Java / Kotlin
+- Material-inspired UI
+
+---
+
+## About Dymn Studio
+
+Dymn Studio creates modern Android applications with a focus on clean UI, practical features and minimal design.
