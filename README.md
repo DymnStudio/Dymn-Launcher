@@ -101,14 +101,16 @@ Dymn Studio creates modern Android applications with a focus on clean UI, practi
 
 ## Roadmap
 
+## Roadmap
+
 - [x] Home screen
 - [x] App drawer
 - [x] Folder support
 - [x] Widgets
 - [x] Wallpaper customization
 - [x] Search
-- [ ] Icon pack support
+- [x] Icon pack support
+- [x] Gesture support
+- [x] Theme customization
 - [ ] Backup & Restore
-- [ ] Gesture support
 - [ ] Tablet layout
-- [ ] Material You colors
