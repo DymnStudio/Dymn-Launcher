@@ -20,6 +20,7 @@
 - [Screenshots](#screenshots)
 - [Roadmap](#roadmap)
 - [License](#license)
+
 **Highly customizable Android launcher inspired by iOS simplicity.**
 
 Dymn Launcher is a clean Android home screen experience focused on speed, personalization and modern visual design.
