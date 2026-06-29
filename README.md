@@ -82,7 +82,7 @@ Dymn Launcher is a clean Android home screen experience focused on speed, person
 **Availability:** APK available on request  
 **Google Play:** Not published yet
 
----
+----
 
 ## Built with
 
@@ -110,3 +110,4 @@ Dymn Studio creates modern Android applications with a focus on clean UI, practi
 - [x] Theme customization
 - [ ] Backup & Restore
 - [ ] Tablet layout
+      
