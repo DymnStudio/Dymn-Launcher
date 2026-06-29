@@ -67,24 +67,6 @@ Dymn Launcher is a clean Android home screen experience focused on speed, person
   <img src="assets/screenshots/folder-view.png" width="260">
 </p>
 
----
-
-## Key Features
-
-* 🏠 Customizable home screen
-* 📂 Folder support
-* 🔍 Fast app search
-* 🎨 Icon pack support
-* 🌈 Custom accent color selection
-* 🖼️ Built-in and custom wallpapers
-* 👆 Gesture support
-* 📱 Widgets support
-* ⚙️ Interface personalization
-* 🚀 Fast and lightweight performance
-* 🧩 Built with Jetpack Compose
-
----
-
 ## Customization
 
 <p align="center">
@@ -102,6 +84,22 @@ Dymn Launcher is a clean Android home screen experience focused on speed, person
   <img src="assets/screenshots/permissions.png" width="260">
   <img src="assets/screenshots/personalization_2.png" width="260">
 </p>
+
+---
+
+## Key Features
+
+* 🏠 Customizable home screen
+* 📂 Folder support
+* 🔍 Fast app search
+* 🎨 Icon pack support
+* 🌈 Custom accent color selection
+* 🖼️ Built-in and custom wallpapers
+* 👆 Gesture support
+* 📱 Widgets support
+* ⚙️ Interface personalization
+* 🚀 Fast and lightweight performance
+* 🧩 Built with Jetpack Compose
 
 ---
 
