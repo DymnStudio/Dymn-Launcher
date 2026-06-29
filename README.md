@@ -1,13 +1,13 @@
 # Dymn Launcher 🚀
 
 <p align="center">
-  <img src="assets/logo.png" width="170" alt="Dymn Launcher Logo">
+  <img src="assets/logo/logo.png" width="170" alt="Dymn Launcher Logo">
 </p>
 
 <h1 align="center">Dymn Launcher</h1>
 
 <p align="center">
-A modern Metro / Windows Phone inspired Android Launcher focused on customization and performance.
+A modern Metro / Windows Phone inspired Android launcher focused on customization, personalization and performance.
 </p>
 
 <p align="center">
@@ -19,6 +19,8 @@ A modern Metro / Windows Phone inspired Android Launcher focused on customizatio
 ![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
 
 </p>
+
+---
 
 ---
 
