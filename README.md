@@ -29,6 +29,35 @@ Dymn Launcher offers a clean and modern home screen with folders, widgets, gestu
 Dymn Launcher is a clean Android home screen experience focused on speed, personalization and modern visual design.
 
 ---
+## 🎬 Demo
+
+### App Drawer
+
+<p align="center">
+  <img src="assets/gifs/app-drawer.gif" width="280"/>
+</p>
+
+### Folders & Gestures
+
+<p align="center">
+  <img src="assets/gifs/folders.gif" width="280"/>
+  <img src="assets/gifs/gestures.gif" width="280"/>
+</p>
+
+### Icon Packs & Themes
+
+<p align="center">
+  <img src="assets/gifs/icon-pack.gif" width="280"/>
+  <img src="assets/gifs/themes.gif" width="280"/>
+</p>
+
+### Widgets & Settings
+
+<p align="center">
+  <img src="assets/gifs/widgets.gif" width="280"/>
+  <img src="assets/gifs/settings.gif" width="280"/>
+</p>
+
 
 ## Preview
 
