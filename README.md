@@ -1,19 +1,27 @@
+# Dymn Launcher 🚀
+
+<p align="center">
+  <img src="assets/logo.png" width="170" alt="Dymn Launcher Logo">
+</p>
+
 <h1 align="center">Dymn Launcher</h1>
 
 <p align="center">
-  A highly customizable Android launcher inspired by iOS, built with Kotlin and Jetpack Compose.
-
-Dymn Launcher offers a clean and modern home screen with folders, widgets, gestures, icon pack support, custom accent colors, wallpaper customization and a fast app drawer with search.
-
+A modern Metro / Windows Phone inspired Android Launcher focused on customization and performance.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Android-8%2B-green">
-  <img src="https://img.shields.io/badge/Kotlin-100%25-blue">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-UI-blueviolet">
-  <img src="https://img.shields.io/github/v/release/DymnStudio/Dymn-Launcher">
-  <img src="https://img.shields.io/badge/License-MIT-yellow">
+
+![Android](https://img.shields.io/badge/Android-8.0+-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-2.x-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Material](https://img.shields.io/badge/Material-3-1976D2?style=for-the-badge)
+![Offline](https://img.shields.io/badge/Offline-Ready-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)
+
 </p>
+
+---
+
 
 ## Contents
 
